@@ -1,0 +1,24 @@
+{
+  "name": "devops-journy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillaNova/acquisitions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KillaNova/acquisitions/issues"
+  },
+  "homepage": "https://github.com/KillaNova/acquisitions#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
